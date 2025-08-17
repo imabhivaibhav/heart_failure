@@ -113,5 +113,5 @@ XGBoost and Random Forest both provide feature importances:
 ## 💬 Contact
 
 - **Email:** contact@abhijeetvaibhav.tech
-- **LinkedIn:** [yourprofile](https://linkedin.com/in/imabhivaibhav)
+- **LinkedIn:** [yourprofile](https://linkedin.com/in/theabhijeetvaibhav)
 - **GitHub:** [imabhivaibhav](https://github.com/imabhivaibhav)
