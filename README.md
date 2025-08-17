@@ -67,8 +67,6 @@ Models compared:
 - **XGBoost (best: accuracy ~85%)**
 - **Gradient Boosted Trees**
   
-**Example: Confusion Matrix (best model)**
-![Confusion Matrix](img/confusion_matrix.png)
 
 ---
 
