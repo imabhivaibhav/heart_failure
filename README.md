@@ -88,3 +88,61 @@ Models compared:
 
 1. Clone the repo and install requirements.
 
+2. Download the dataset from [Kaggle](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data).
+
+3. Run the Jupyter Notebook or scripts.
+
+*(Rename/add your main notebook name)*
+
+4. Trained model (`model.pkl`) can be used for predictions.
+
+---
+
+## 📉 EDA & Insights
+
+- Most deaths occur above age 50, but not all aged patients die.
+- Heart failure risk factor analysis done via interaction terms.
+- Diabetes, blood pressure, and ejection fraction are influential.
+
+---
+
+## 📊 Feature Importance
+
+XGBoost and Random Forest both provide feature importances:
+
+![Feature Importance](img/feature_importance.png)
+
+---
+
+## 📝 References
+
+- [Kaggle Dataset](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data)
+- [Ayush Singh (Notebook inspiration)](https://www.kaggle.com/ayushsingh21/heart-failure-prediction)
+- [Pearson Correlation](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
+
+---
+
+## 💡 Future Work
+
+- Hyperparameter tuning
+- Deploy model as a web service
+- Test on new data / cross-validation
+
+---
+
+## 💬 Contact
+
+- **Email:** your.email@example.com
+- **LinkedIn:** [yourprofile](https://linkedin.com/in/yourprofile)
+- **GitHub:** [Imabhivaibhav](https://github.com/Imabhivaibhav)
+
+---
+
+*For diagrams:*  
+- Use `img/pie_distribution.png` for the survival pie chart  
+- Use `img/age_hist.png` for age distribution  
+- Use `img/correlation_heatmap.png` for the correlation matrix  
+- Use `img/confusion_matrix.png` for your best model confusion matrix  
+- Use `img/feature_importance.png` for feature importance  
+- If you don't have these yet, you can leave the placeholders or generate the images from your notebook.
+
