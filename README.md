@@ -1,4 +1,4 @@
-# Heart Failure Detector 📚
+# Heart Failure Detection 📚
 
 **Author:** Abhijeet Vaibhav
 
