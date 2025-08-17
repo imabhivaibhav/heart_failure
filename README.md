@@ -38,15 +38,13 @@ This project uses clinical features to predict heart failure mortality, inspired
 - **Distributions:** Age, Diabetes, and other features explored
 
 **Example: Target distribution plot**  
-*(replace this with your own image or chart if desired)*  
 ![Pie chart of survival distribution](pie_distribution.png)
 
 **Example: Age distribution plot**  
-![Age distribution histogram](img/age_hist.png)
+![Age distribution histogram](age_hist.png)
 
 **Correlation Heatmap:**  
-*(add your correlation plot if possible)*  
-![Correlation heatmap](img/correlation_heatmap.png)
+![Correlation heatmap](correlation_heatmap.png)
 
 ---
 
