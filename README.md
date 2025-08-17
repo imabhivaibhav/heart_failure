@@ -92,7 +92,6 @@ Models compared:
 
 XGBoost and Random Forest both provide feature importances:
 
-![Feature Importance](img/feature_importance.png)
 
 ---
 
